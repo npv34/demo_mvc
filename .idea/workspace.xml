@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="683589e9-3d77-4ff8-b607-edbee1170b74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kAY1n8yqHFgCUur1x35eHSuX30" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="683589e9-3d77-4ff8-b607-edbee1170b74" name="Default Changelist" comment="" />
+      <created>1605144650275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605144650275</updated>
+      <workItem from="1605144651419" duration="3768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="609" height="900" key="#com.intellij.ide.util.MemberChooser" timestamp="1605145185989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="609" height="900" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1605145185989" />
+    <state x="409" y="82" key="NewPhpClassDialog" timestamp="1605145293257">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="409" y="82" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1605145293257" />
+    <state x="466" y="351" key="NewPhpFileDialog" timestamp="1605147149094">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="466" y="351" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1605147149094" />
+  </component>
+</project>
